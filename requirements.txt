@@ -1,0 +1,11 @@
+pandas>=3.6.6
+pytest>=3.0.8
+requests>=1.8.3
+jupyter>=3.18.0
+fastapi>=1.18.7
+matplotlib>=1.1.1
+requests>=2.12.5
+flask>=1.17.6
+scikit-learn>=2.8.6
+flask>=2.19.1
+# Update: 1759777055
